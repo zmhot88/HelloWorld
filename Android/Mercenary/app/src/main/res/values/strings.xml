@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Mercenary</string>
     <string name="action_settings">Settings</string>
+    <string name="apply_for_permission">尝试获取权限</string>
+    <string name="settings">设置</string>
+    <string name="quit">退出</string>
+    <string name="help">帮助</string>
+    <string name="string_help_text">当前应用缺少必要权限，请手动设置一下，谢谢！</string>
+    <string name="apply_for_permission_tip">这就是个申请权限的Activity</string>
 </resources>
